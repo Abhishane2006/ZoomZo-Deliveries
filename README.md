@@ -34,5 +34,3 @@ A Python + MySQL-based delivery management system created as my Class 12 Compute
 
 > Make sure MySQL is running and credentials in the script match your local setup.
 
-## 📚 Credits
-- NCERT + Saraswati Class 12 CS Books
